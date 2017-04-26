@@ -1,0 +1,23 @@
+{
+  "name": "marsbot",
+  "version": "1.0.0",
+  "description": "jomm1930",
+  "main" : "index.js" ,
+    "scripts" : {
+    "test": "jomm",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jomm"
+  },
+  "keywords": [
+    "jomm"
+  ],
+  "author": "jomm",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
